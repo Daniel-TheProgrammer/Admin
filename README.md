@@ -22,7 +22,7 @@ After the repository is cloned, go inside of the repository directory and instal
 cd Admin-Dashboard
 npm install
 ```
-This will setup a working copy of market-crown on your local machine.
+This will setup a working copy of Admin-Dashboard on your local machine.
 
 ### Running local copy
 To run a local copy in development mode, execute:

@@ -1,10 +1,8 @@
-# market-crown
-Project for market crown. (Angular JS and Django)
+# Admin-Dashboard
+Project for Admin. (Built with JS and Django)
 
 ## About the project
-
-Market crown is social network application to help people share their thoughts of stock market forecasts.
-Provides profit gaining tool for market experts.
+Task given by Fahreem
 
 ## Install guide
 
@@ -17,12 +15,11 @@ If you don't have any of these tools installed already, you will need to:
 You will need to clone the source code of market-crown GitHub repository:
 
 ```bash
-git clone https://github.com/codarrior/market-crown.git
-```
+git clone https://github.com/Daniel-TheProgrammer/Admin.git```
 After the repository is cloned, go inside of the repository directory and install dependencies:
 
 ```bash
-cd market-crown
+cd Admin-Dashboard
 npm install
 ```
 This will setup a working copy of market-crown on your local machine.
